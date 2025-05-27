@@ -12,13 +12,17 @@ My focus has been on defensive strategies (Blue Team), threat hunting, and malwa
   - Cybersecurity intelligence and physical security integration
   - **Automating stuff** – from threat detection to response workflows
 
-- 🌱 **I’m currently learning**:
+- 🌱 **I'm focused on mastering**:
   - **In-depth operating system internals** – for better system-level security analysis and debugging
   - OSINT tools and methodologies to enhance digital investigations
-  - How to automate threat detection and response
+  - Threat intelligence, detection and response automation
 
 - 💞️ **I’m looking to collaborate on**:
   - Research projects on OSINT and threat intelligence
 
 - 📫 **How to reach me**:
   - Email: [yausername@tuta.io](mailto:yausername@tuta.io)
+
+## Certificates
+
+- **Certified Web Forensic Expert (CWFE)**, from **Ricta.io**
